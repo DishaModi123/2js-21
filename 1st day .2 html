@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<HTML>
+<BODY>
+
+<h2>my first javascript</h2>
+
+<button type ="button"
+onclick ="document. getElementBYId{'demo'}. innerHTML =Date()">
+[lick te to display DATE and time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html>
+
